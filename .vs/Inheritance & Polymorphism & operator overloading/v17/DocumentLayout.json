@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|d:\\new folder\\tasks\\inheritance \u0026 polymorphism \u0026 operator overloading\\inheritance \u0026 polymorphism \u0026 operator overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|solutionrelative:inheritance \u0026 polymorphism \u0026 operator overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|d:\\new folder\\tasks\\inheritance \u0026 polymorphism \u0026 operator overloading\\inheritance \u0026 polymorphism \u0026 operator overloading\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|solutionrelative:inheritance \u0026 polymorphism \u0026 operator overloading\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|d:\\new folder\\tasks\\inheritance \u0026 polymorphism \u0026 operator overloading\\inheritance \u0026 polymorphism \u0026 operator overloading\\savings account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|solutionrelative:inheritance \u0026 polymorphism \u0026 operator overloading\\savings account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|d:\\new folder\\tasks\\inheritance \u0026 polymorphism \u0026 operator overloading\\inheritance \u0026 polymorphism \u0026 operator overloading\\checking account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|solutionrelative:inheritance \u0026 polymorphism \u0026 operator overloading\\checking account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|d:\\new folder\\tasks\\inheritance \u0026 polymorphism \u0026 operator overloading\\inheritance \u0026 polymorphism \u0026 operator overloading\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|solutionrelative:inheritance \u0026 polymorphism \u0026 operator overloading\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|d:\\new folder\\tasks\\inheritance \u0026 polymorphism \u0026 operator overloading\\inheritance \u0026 polymorphism \u0026 operator overloading\\trust account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AC4249-B597-4D74-BCE5-E90ED667D41D}|Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading.csproj|solutionrelative:inheritance \u0026 polymorphism \u0026 operator overloading\\trust account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Account.cs",
+              "RelativeDocumentMoniker": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Account.cs",
+              "ToolTip": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Account.cs",
+              "RelativeToolTip": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Account.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAEwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:14:38.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trust account.cs",
+              "DocumentMoniker": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Trust account.cs",
+              "RelativeDocumentMoniker": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Trust account.cs",
+              "ToolTip": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Trust account.cs",
+              "RelativeToolTip": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Trust account.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:47:32.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\AccountUtil.cs",
+              "ToolTip": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\AccountUtil.cs",
+              "RelativeToolTip": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\AccountUtil.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:16:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Savings Account.cs",
+              "DocumentMoniker": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Savings Account.cs",
+              "RelativeDocumentMoniker": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Savings Account.cs",
+              "ToolTip": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Savings Account.cs",
+              "RelativeToolTip": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Savings Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T01:25:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checking account.cs",
+              "DocumentMoniker": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Checking account.cs",
+              "RelativeDocumentMoniker": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Checking account.cs",
+              "ToolTip": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Checking account.cs",
+              "RelativeToolTip": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Checking account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T02:05:35.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Program.cs",
+              "ToolTip": "D:\\New folder\\tasks\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Inheritance \u0026 Polymorphism \u0026 operator overloading\\Program.cs",
+              "RelativeToolTip": "Inheritance \u0026 Polymorphism \u0026 operator overloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:12:19.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

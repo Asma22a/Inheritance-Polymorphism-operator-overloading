@@ -1,0 +1,14 @@
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\bin\Debug\net8.0\Inheritance & Polymorphism & operator overloading.exe
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\bin\Debug\net8.0\Inheritance & Polymorphism & operator overloading.deps.json
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\bin\Debug\net8.0\Inheritance & Polymorphism & operator overloading.runtimeconfig.json
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\bin\Debug\net8.0\Inheritance & Polymorphism & operator overloading.dll
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\bin\Debug\net8.0\Inheritance & Polymorphism & operator overloading.pdb
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.AssemblyInfoInputs.cache
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.AssemblyInfo.cs
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.csproj.CoreCompileInputs.cache
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.dll
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\refint\Inheritance & Polymorphism & operator overloading.dll
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.pdb
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\Inheritance & Polymorphism & operator overloading.genruntimeconfig.cache
+D:\New folder\tasks\Inheritance & Polymorphism & operator overloading\Inheritance & Polymorphism & operator overloading\obj\Debug\net8.0\ref\Inheritance & Polymorphism & operator overloading.dll
