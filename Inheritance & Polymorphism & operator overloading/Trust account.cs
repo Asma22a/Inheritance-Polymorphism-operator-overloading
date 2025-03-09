@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace Inheritance___Polymorphism___operator_overloading
 {
-    public class TrustAccount : Account
+    public class TrustAccount : SavingsAccount
     {
-        public double InteRest { get; set; }
-        public int Value { get; set; }
-        public TrustAccount (string Name = "Unnamed Account", double Balance = 0.0, double InteRest = 0.0, int Value = 0)
-            : base(Name, Balance)
+        
+        private DateTime withdrawYear = DateTime.Now;
+        private int Value = 0;
+        public TrustAccount (string Name = "Unnamed Account", double Balance = 0.0, double InteRest = 0.0)
+            : base(Name, Balance,InteRest)
         {
-            this.InteRest = InteRest;
-            this.Value = Value;
+            
+          
         }
         public override bool Deposit(double amount)
         {
@@ -27,10 +28,16 @@ namespace Inheritance___Polymorphism___operator_overloading
         }
         public override bool Withdraw(double amount)
         {
-            if(Value<=3 && amount > Balance * 0.20)
+            if (DateTime.Now.Year != withdrawYear.Year)
             {
-                return base.Withdraw(amount);
+                Value = 0;
+                withdrawYear = DateTime.Now;
+            }
+            if (Value<=3 && amount > Balance * 0.20)
+            {
                 Value += 1;
+                return base.Withdraw(amount);
+                
             }
             else
             {
